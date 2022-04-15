@@ -22,7 +22,7 @@
             <!-- Content -->
             <div class="text-center text-white mx-5 wow fadeIn">
               <h1 class="mb-4">
-                <strong>Here we have the best products</strong>
+                <strong>Best toys for all</strong>
               </h1>
 
               <p>
@@ -51,11 +51,11 @@
             <!-- Content -->
             <div class="text-center text-white mx-5 wow fadeIn">
               <h1 class="mb-4">
-                <strong>We have a better idea</strong>
+                <strong>Help you relax</strong>
               </h1>
 
               <p>
-                <strong>Because it’s the 21st century, you need the advanced version</strong>
+                <strong>We have all kind of toys</strong>
               </p>
 
               <a target="_blank" href="https://mdbootstrap.com/education/bootstrap/" class="btn btn-outline-white btn-lg text-white">Explore now
@@ -80,11 +80,11 @@
             <!-- Content -->
             <div class="text-center text-white mx-5 wow fadeIn">
               <h1 class="mb-4">
-                <strong>All you need is a nice laptop</strong>
+                <strong>All you need is a nice toy</strong>
               </h1>
 
               <p>
-                <strong>The future is in your hands</strong>
+                <strong>The world is in your hand</strong>
               </p>
 
 

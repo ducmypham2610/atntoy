@@ -27,7 +27,6 @@ class ProductController extends Controller
             $filename = time().'_' . $file->getClientOriginalName();
             $file->move($path, $filename);
         }
-        // dd($req);
         $product = new Product;
         $product->product_name = $req->product_name;
         $product->product_description = $req->product_description;
@@ -37,6 +36,7 @@ class ProductController extends Controller
         $product->save();
         // dd($product);
         $all=Product::all();
+        // dd($all);
         return view('admin/pages/productManagement/listProducts',['product'=>$all]);
     }
 
