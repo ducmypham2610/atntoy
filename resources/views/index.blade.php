@@ -25,7 +25,7 @@
               <!--Card image-->
               <div class="view overlay">
                 <img src="{{asset('img/'.$product->product_image)}}" class="card-img-top"
-                  alt="" style="width:200px; height:auto;">
+                  alt="" style="width:150px; height:200px;">
                 <a>
                   <div class="mask rgba-white-slight"></div>
                 </a>
