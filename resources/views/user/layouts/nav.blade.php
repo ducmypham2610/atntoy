@@ -28,7 +28,6 @@
                 @if(Auth::user()->role==='admin')
                 <li><a href="{{ url('/manage') }}" class="text-dark">Dashboard</a></li>
                 @endif
-                <li><a href="{{ url('/cart') }}" class="text-dark">Cart</a></li>
                 <li><a href="{{ url('/logout') }}" class="text-dark">Logout</a></li>
             </ul>
         @else

@@ -14,7 +14,7 @@
 
       <!--First slide-->
       <div class="carousel-item active">
-        <div class="view" style="background-image: url('https://wallpapercave.com/wp/wp6350573.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div class="view" style="background-image: url('https://thumbs.dreamstime.com/b/background-movie-cartoon-superheroes-action-figures-toys-beautiful-colourful-wallpaper-image-film-dolls-memorabilia-121851724.jpg'); background-repeat: no-repeat; background-size: cover;">
 
           <!-- Mask & flexbox options-->
           <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">

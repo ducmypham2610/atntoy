@@ -67,10 +67,3 @@ Route::post('/addProduct',[ProductController::class,'postAdd']);
 Route::get('/deleteProduct/{product_id}',[ProductController::class,'deleteProduct']);
 Route::get('/updateProduct/{product_id}',[ProductController::class,'updateProduct']);
 Route::post('/updateProduct',[ProductController::class,'saveData']);
-
-
-/////////////////////////////////////////////////////////////////
-//  control cart
-Route::get('/cart',[CartController::class,'cart']);
-Route::post('add-to-cart',[CartController::class,'addToCart']);
-Route::get('/removeFromCart/{cart_id}',[CartController::class,'removeFromCart']);
