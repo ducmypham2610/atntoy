@@ -43,7 +43,7 @@ class User extends Authenticatable
     ];
 
     protected $table = "users";
-    protected $fillable = ['username','email','password','role'];
+    protected $fillable = ['user_id','username','email','password','role'];
     protected $primaryKey = 'user_id';
     public $timestamps = false;
 
